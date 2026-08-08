@@ -48,7 +48,6 @@ O **Prompt Flow AI** reúne recursos para trabalhar com prompts em uma experiên
 - 👥 **Seguir usuários** — acompanhar outros perfis
 - 🔔 **Notificações** — acompanhar atividades relevantes
 - 🏆 **Níveis de perfil** — Artesão e Mestre
-- 💎 **Prompts premium**
 - 🎨 **Personalização de temas**
 - 📱 **Interface adaptada para diferentes tamanhos de tela**, incluindo tablets
 
