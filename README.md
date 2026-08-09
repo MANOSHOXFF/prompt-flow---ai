@@ -81,17 +81,13 @@ Os níveis fazem parte da experiência de perfil e representam diferentes estág
 
 O aplicativo oferece opções de personalização da aparência para adaptar a experiência visual às preferências do usuário.
 
-Atualmente, a plataforma disponibiliza diferentes estilos de tema, incluindo:
+A plataforma disponibiliza diferentes opções de temas visuais, permitindo personalizar a interface sem expor os nomes específicos dessas opções.
 
-- **Galáxia**
-- **Céu**
-- **Material You**
-
-Também é possível escolher o comportamento do tema do aplicativo:
+Também é possível escolher o modo de aparência do aplicativo:
 
 - **Sistema** — acompanha a configuração de aparência do dispositivo.
 - **Escuro** — utiliza a interface em modo escuro.
-- **Claro (Beta)** — utiliza a interface em modo claro.
+- **Claro** — utiliza a interface em modo claro.
 
 ### Compatibilidade com diferentes telas
 
@@ -129,17 +125,13 @@ A área de perfil reúne informações da conta e os conteúdos publicados pelo 
 
 O Prompt Flow AI possui diferentes opções de temas para personalizar a experiência visual da plataforma.
 
-### Temas disponíveis
+As opções de temas disponíveis permitem adaptar a identidade visual da interface às preferências do usuário, sem divulgar os nomes específicos dos temas.
 
-- **Galáxia**
-- **Céu**
-- **Material You**
-
-Além dos estilos visuais, o aplicativo oferece três comportamentos de aparência:
+Além dos temas visuais, o aplicativo oferece três modos de aparência:
 
 - **Sistema**
 - **Escuro**
-- **Claro (Beta)**
+- **Claro**
 
 A opção **Sistema** permite que o aplicativo acompanhe automaticamente a aparência configurada no dispositivo.
 
