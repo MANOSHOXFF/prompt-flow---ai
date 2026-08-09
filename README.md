@@ -47,10 +47,9 @@ O **Prompt Flow AI** reúne recursos para trabalhar com prompts em uma experiên
 - 👤 **Perfis** — páginas de perfil dos usuários
 - 👥 **Seguir usuários** — acompanhar outros perfis
 - 🔔 **Notificações** — acompanhar atividades relevantes
+- 🏅 **Sistema de níveis de conta** — progressão associada à atividade do perfil
 - 🎨 **Personalização de temas**
 - 📱 **Interface adaptada para diferentes tamanhos de tela**, incluindo tablets
-
-> Esta documentação lista somente recursos já definidos no projeto. Não foram adicionadas funcionalidades fictícias.
 
 ## 🎨 Temas
 
