@@ -16,8 +16,6 @@
 
 O **Prompt Flow AI** é uma plataforma focada em prompts de inteligência artificial, reunindo descoberta, publicação, interação e organização de conteúdos em uma experiência social.
 
-O desenvolvimento da versão atual foi **concluído** e o aplicativo está disponível para download.
-
 ## ✨ Recursos
 
 - 🖼️ **Galeria** — exploração de prompts publicados
@@ -72,10 +70,6 @@ assets/
 ```
 
 As imagens utilizadas nesta documentação são capturas reais da interface do Prompt Flow AI.
-
-## 📌 Status
-
-**Concluído • Versão final disponível** ✅
 
 ## 👨‍💻 Desenvolvedor
 
