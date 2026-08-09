@@ -79,7 +79,19 @@ Os níveis fazem parte da experiência de perfil e representam diferentes estág
 
 ### Personalização
 
-O aplicativo oferece diferentes opções de aparência para adaptar a experiência visual às preferências do usuário.
+O aplicativo oferece opções de personalização da aparência para adaptar a experiência visual às preferências do usuário.
+
+Atualmente, a plataforma disponibiliza diferentes estilos de tema, incluindo:
+
+- **Galáxia**
+- **Céu**
+- **Material You**
+
+Também é possível escolher o comportamento do tema do aplicativo:
+
+- **Sistema** — acompanha a configuração de aparência do dispositivo.
+- **Escuro** — utiliza a interface em modo escuro.
+- **Claro (Beta)** — utiliza a interface em modo claro.
 
 ### Compatibilidade com diferentes telas
 
@@ -115,13 +127,21 @@ A área de perfil reúne informações da conta e os conteúdos publicados pelo 
 
 # Personalização
 
-O Prompt Flow AI possui diferentes opções de temas para personalizar a experiência visual.
+O Prompt Flow AI possui diferentes opções de temas para personalizar a experiência visual da plataforma.
 
-Também estão disponíveis opções relacionadas ao tema do sistema:
+### Temas disponíveis
 
-- Sistema
-- Escuro
-- Claro
+- **Galáxia**
+- **Céu**
+- **Material You**
+
+Além dos estilos visuais, o aplicativo oferece três comportamentos de aparência:
+
+- **Sistema**
+- **Escuro**
+- **Claro (Beta)**
+
+A opção **Sistema** permite que o aplicativo acompanhe automaticamente a aparência configurada no dispositivo.
 
 ---
 
@@ -143,34 +163,10 @@ O fluxo principal permite:
 
 ---
 
-# Organização da plataforma
+<div align="center">
 
-O Prompt Flow AI possui diferentes áreas que trabalham em conjunto para formar a experiência da plataforma.
+**Prompt Flow AI**
 
-```text
-Prompt Flow AI
-│
-├── Galeria
-│   ├── Todos
-│   ├── Em Alta
-│   ├── Oficiais
-│   ├── Comunidade
-│   ├── Meus Prompts
-│   └── Favoritos
-│
-├── Prompts
-│   ├── Publicação
-│   ├── Visualização
-│   ├── Curtidas
-│   └── Favoritos
-│
-├── Usuários
-│   ├── Perfil
-│   ├── Seguidores
-│   └── Seguindo
-│
-├── Notificações
-│
-├── Sistema de níveis de conta
-│
-```
+© Prompt Flow AI. Todos os direitos reservados.
+
+</div>
