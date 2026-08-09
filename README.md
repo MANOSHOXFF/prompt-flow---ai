@@ -30,7 +30,7 @@ Tela de visualização detalhada de um prompt, com a imagem, título, autor, aç
 
 <img src="assets/prompt-flow-user-profile.jpg" alt="Prompt Flow AI — Perfil do usuário" width="320" />
 
-Perfil do usuário com identificação, nível **Artesão**, quantidade de prompts, curtidas, visualizações e a área de **Meus Prompts**.
+Perfil do usuário com identificação, quantidade de prompts, curtidas, visualizações e a área de **Meus Prompts**.
 
 ---
 
@@ -47,15 +47,10 @@ O **Prompt Flow AI** reúne recursos para trabalhar com prompts em uma experiên
 - 👤 **Perfis** — páginas de perfil dos usuários
 - 👥 **Seguir usuários** — acompanhar outros perfis
 - 🔔 **Notificações** — acompanhar atividades relevantes
-- 🏆 **Níveis de perfil** — Artesão e Mestre
 - 🎨 **Personalização de temas**
 - 📱 **Interface adaptada para diferentes tamanhos de tela**, incluindo tablets
 
 > Esta documentação lista somente recursos já definidos no projeto. Não foram adicionadas funcionalidades fictícias.
-
-## 🏆 Níveis
-
-O projeto possui os níveis **Artesão** e **Mestre**. O nível Mestre utiliza o marco de **360 curtidas** definido no projeto.
 
 ## 🎨 Temas
 
