@@ -1,65 +1,66 @@
 <div align="center">
 
+<img src="assets/logo-prompt-flow-ai.jpeg" alt="Prompt Flow AI" width="180" />
+
 # Prompt Flow AI
 
-**Uma plataforma para criação, descoberta, compartilhamento e organização de prompts de inteligência artificial.**
+### Crie, descubra e compartilhe prompts de inteligência artificial.
 
-<img src="assets/logo-prompt-flow-ai.jpeg" alt="Logo Prompt Flow AI" width="180" />
-
-### Versão final • Disponível para download
+Uma plataforma voltada para a descoberta, publicação, organização e interação com prompts em uma experiência moderna e social.
 
 </div>
 
 ---
 
-## 📱 Sobre o aplicativo
+## Sobre a Prompt Flow AI
 
-O **Prompt Flow AI** é uma plataforma focada em prompts de inteligência artificial, reunindo descoberta, publicação, interação e organização de conteúdos em uma experiência social.
+A **Prompt Flow AI** reúne ferramentas e recursos para explorar prompts de inteligência artificial, compartilhar criações e acompanhar conteúdos publicados pela comunidade.
 
-## ✨ Recursos
+A plataforma foi projetada para oferecer uma experiência organizada, visual e acessível, com recursos de interação, perfis e personalização.
 
-- 🖼️ **Galeria** — exploração de prompts publicados
-- ❤️ **Curtidas** — interação com prompts
-- 🔖 **Favoritos** — salvar prompts para acessar depois
-- ✍️ **Publicação de prompts** — compartilhar prompts na plataforma
-- 👤 **Perfis de usuários** — visualização e organização do conteúdo do perfil
-- 👥 **Seguir usuários** — acompanhar outros perfis
-- 🔔 **Notificações** — acompanhar atividades da plataforma
-- 🏅 **Sistema de níveis de conta** — progressão associada à atividade do perfil
-- 🎨 **Personalização de temas**
-- 📱 **Interface adaptada para diferentes tamanhos de tela**, incluindo tablets
+## Recursos da plataforma
 
-## 📸 Preview
+- **Galeria de prompts** — explore conteúdos publicados em diferentes categorias.
+- **Curtidas e favoritos** — interaja e salve prompts para acessar quando quiser.
+- **Publicação de prompts** — compartilhe suas criações com a comunidade.
+- **Perfis de usuários** — acompanhe informações e conteúdos publicados por cada conta.
+- **Sistema de seguir** — acompanhe outros usuários da plataforma.
+- **Notificações** — receba atualizações sobre atividades relevantes.
+- **Sistema de níveis de conta** — progressão associada à atividade do perfil.
+- **Personalização** — opções de temas para adaptar a experiência visual.
+- **Experiência responsiva** — interface adaptada para diferentes tamanhos de tela, incluindo tablets.
 
-### 🖼️ Galeria
+---
 
-<img src="assets/prompt-flow-gallery.jpg" alt="Prompt Flow AI — Galeria" width="320" />
+## Interface
 
-Tela principal para descoberta e navegação pelos prompts.
+### Galeria
 
-### 🔎 Detalhes do prompt
+<img src="assets/prompt-flow-gallery.jpg" alt="Galeria da Prompt Flow AI" width="320" />
 
-<img src="assets/prompt-flow-prompt-details.jpg" alt="Prompt Flow AI — Detalhes do prompt" width="320" />
+Área principal para descobrir, navegar e explorar prompts publicados na plataforma.
 
-Visualização detalhada de um prompt, incluindo imagem, título, autor, interações e conteúdo.
+### Detalhes do prompt
 
-### 👤 Perfil do usuário
+<img src="assets/prompt-flow-prompt-details.jpg" alt="Detalhes de um prompt na Prompt Flow AI" width="320" />
 
-<img src="assets/prompt-flow-user-profile.jpg" alt="Prompt Flow AI — Perfil do usuário" width="320" />
+Visualização completa do prompt, incluindo conteúdo, autor e recursos de interação.
 
-Área de perfil com informações da conta e coleção de prompts publicados.
+### Perfil do usuário
 
-## 🎨 Temas
+<img src="assets/prompt-flow-user-profile.jpg" alt="Perfil de usuário na Prompt Flow AI" width="320" />
 
-O aplicativo possui os temas definidos para o projeto, incluindo **Galáxia**, **Céu** e **Material You**, além das opções de tema do sistema, escuro e claro (Beta).
+Espaço dedicado às informações da conta e aos prompts publicados pelo usuário.
 
-## 📦 Download
+---
 
-A versão final do aplicativo está disponível para download.
+## Personalização
 
-> O link de download pode ser adicionado nesta seção quando o endereço oficial de distribuição for definido.
+A Prompt Flow AI inclui opções de personalização visual com os temas **Galáxia**, **Céu** e **Material You**, além das opções de tema do sistema, escuro e claro (Beta).
 
-## 📂 Assets
+## Imagens do projeto
+
+Todas as imagens utilizadas neste README são capturas reais da interface da Prompt Flow AI e estão organizadas no diretório `assets/`.
 
 ```text
 assets/
@@ -69,18 +70,12 @@ assets/
 └── prompt-flow-user-profile.jpg
 ```
 
-As imagens utilizadas nesta documentação são capturas reais da interface do Prompt Flow AI.
-
-## 👨‍💻 Desenvolvedor
-
-Desenvolvido por **MANOSHOXFF**.
-
 ---
 
 <div align="center">
 
 **Prompt Flow AI**
 
-© Prompt Flow AI — Todos os direitos reservados.
+© Prompt Flow AI. Todos os direitos reservados.
 
 </div>
