@@ -4,6 +4,8 @@
 
 # Prompt Flow AI
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MANOSHOXFF/prompt-flow---ai) [![Latest Release](https://img.shields.io/github/v/release/MANOSHOXFF/prompt-flow---ai?display_name=tag&style=flat&label=Latest%20Release)](https://github.com/MANOSHOXFF/prompt-flow---ai/releases) [![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat&logo=android&logoColor=white)](https://www.android.com/)
+
 **Uma plataforma para descobrir, criar, publicar, organizar e interagir com prompts de inteligência artificial.**
 
 </div>
