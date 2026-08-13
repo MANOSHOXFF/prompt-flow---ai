@@ -135,22 +135,6 @@ A área de perfil reúne informações da conta e os conteúdos publicados pelo 
 
 ---
 
-# Personalização
-
-O Prompt Flow AI possui diferentes opções de temas para personalizar a experiência visual da plataforma.
-
-As opções de temas disponíveis permitem adaptar a identidade visual da interface às preferências do usuário, sem divulgar os nomes específicos dos temas.
-
-Além dos temas visuais, o aplicativo oferece três modos de aparência:
-
-- **Sistema**
-- **Escuro**
-- **Claro**
-
-A opção **Sistema** permite que o aplicativo acompanhe automaticamente a aparência configurada no dispositivo.
-
----
-
 # Experiência do usuário
 
 A experiência do Prompt Flow AI foi organizada para reduzir a complexidade durante a navegação.
