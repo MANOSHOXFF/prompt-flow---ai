@@ -30,6 +30,18 @@ A plataforma permite que o usuário navegue pela galeria, visualize prompts em d
 
 ---
 
+## Download
+
+### Versão oficial mais recente
+
+O aplicativo é distribuído por meio dos **GitHub Releases** oficiais do Prompt Flow AI.
+
+> O botão abaixo sempre direciona para o release oficial mais recente. Versões marcadas como **Pre-release** ou **Draft** não são consideradas versões oficiais.
+
+**[Baixar o APK](https://github.com/MANOSHOXFF/prompt-flow---ai/releases/latest)** · **[Ver todos os releases](https://github.com/MANOSHOXFF/prompt-flow---ai/releases)**
+
+---
+
 ## Principais recursos
 
 ### Galeria
