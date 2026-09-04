@@ -2,18 +2,18 @@
 
 <img src="assets/logo-prompt-flow-ai.jpeg" alt="Prompt Flow AI" width="180">
 
+# Prompt Flow AI
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MANOSHOXFF/prompt-flow---ai) [![Latest Release](https://img.shields.io/github/v/release/MANOSHOXFF/prompt-flow---ai?display_name=tag&style=flat&label=Latest%20Release)](https://github.com/MANOSHOXFF/prompt-flow---ai/releases) [![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat&logo=android&logoColor=white)](https://www.android.com/)
+
+**Uma plataforma para descobrir, criar, publicar, organizar e interagir com prompts de inteligência artificial.**
+
 <p>
 <img src="assets/Samsung%20Galaxy%20S10%20Screenshot%201.png" alt="Prompt Flow AI - Samsung Galaxy S10 Screenshot 1" width="23%">
 <img src="assets/Samsung%20Galaxy%20S10%20Screenshot%202.png" alt="Prompt Flow AI - Samsung Galaxy S10 Screenshot 2" width="23%">
 <img src="assets/Samsung%20Galaxy%20S10%20Screenshot%203.png" alt="Prompt Flow AI - Samsung Galaxy S10 Screenshot 3" width="23%">
 <img src="assets/Samsung%20Galaxy%20S10%20Screenshot%204.png" alt="Prompt Flow AI - Samsung Galaxy S10 Screenshot 4" width="23%">
 </p>
-
-# Prompt Flow AI
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MANOSHOXFF/prompt-flow---ai) [![Latest Release](https://img.shields.io/github/v/release/MANOSHOXFF/prompt-flow---ai?display_name=tag&style=flat&label=Latest%20Release)](https://github.com/MANOSHOXFF/prompt-flow---ai/releases) [![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat&logo=android&logoColor=white)](https://www.android.com/)
-
-**Uma plataforma para descobrir, criar, publicar, organizar e interagir com prompts de inteligência artificial.**
 
 </div>
 
