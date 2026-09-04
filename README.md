@@ -8,18 +8,18 @@
 
 **Uma plataforma para descobrir, criar, publicar, organizar e interagir com prompts de inteligência artificial.**
 
-<p>
-<img src="assets/Samsung%20Galaxy%20S10%20Screenshot%201.png" alt="Prompt Flow AI - Samsung Galaxy S10 Screenshot 1" width="23%">
-<img src="assets/Samsung%20Galaxy%20S10%20Screenshot%202.png" alt="Prompt Flow AI - Samsung Galaxy S10 Screenshot 2" width="23%">
-<img src="assets/Samsung%20Galaxy%20S10%20Screenshot%203.png" alt="Prompt Flow AI - Samsung Galaxy S10 Screenshot 3" width="23%">
-<img src="assets/Samsung%20Galaxy%20S10%20Screenshot%204.png" alt="Prompt Flow AI - Samsung Galaxy S10 Screenshot 4" width="23%">
-</p>
-
 </div>
 
 ---
 
 ## Sobre o Prompt Flow AI
+
+<p align="center">
+<img src="assets/Samsung%20Galaxy%20S10%20Screenshot%201.png" alt="Prompt Flow AI - Samsung Galaxy S10 Screenshot 1" width="23%">
+<img src="assets/Samsung%20Galaxy%20S10%20Screenshot%202.png" alt="Prompt Flow AI - Samsung Galaxy S10 Screenshot 2" width="23%">
+<img src="assets/Samsung%20Galaxy%20S10%20Screenshot%203.png" alt="Prompt Flow AI - Samsung Galaxy S10 Screenshot 3" width="23%">
+<img src="assets/Samsung%20Galaxy%20S10%20Screenshot%204.png" alt="Prompt Flow AI - Samsung Galaxy S10 Screenshot 4" width="23%">
+</p>
 
 O **Prompt Flow AI** é uma plataforma desenvolvida para tornar a utilização de prompts de inteligência artificial mais organizada, acessível e interativa.
 
